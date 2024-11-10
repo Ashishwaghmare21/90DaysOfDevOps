@@ -1,0 +1,22 @@
+   What is DevOps 
+
+--> -  The term devops is a combination of two words development and operation 
+    -  Devops is methodolgy that allows a single team to manage entir the  application developmet life cycle that is development,testing deployment operation 
+    -  The objective of devops is to shorten the system development life cycle 
+    -  devops is a software development approach through which superior quallity software can be developed quickly and with more relabilty
+
+
+    What is Automation, Scaling, Infrastructure
+
+--> 
+
+
+
+
+
+
+
+    Why DevOps is Important
+
+--> DevOps is Important because its software deployment and operation approach that enable faster developmet of new product and easier maintenance of existing 
+    deployments
