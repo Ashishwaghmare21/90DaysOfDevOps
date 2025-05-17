@@ -1,0 +1,27 @@
+# Day 3 Task: Basic Linux Commands with a Twist
+
+Task: What are the Linux commands to
+
+1. View the content of a file and display line numbers.
+solution: (https://github.com/Ashishwaghmare21/90DaysOfDevOps/blob/master/2024/day03/img/task1.PNG)
+
+2. Change the access permissions of files to make them readable, writable, and executable by the owner only.
+ soluion: (https://github.com/Ashishwaghmare21/90DaysOfDevOps/blob/master/2024/day03/img/task2.PNG)
+
+3. Check the last 10 commands you have run.
+solution: (https://github.com/Ashishwaghmare21/90DaysOfDevOps/blob/master/2024/day03/img/task3.PNG)
+
+4. Remove a directory and all its contents.
+solution: (https://github.com/Ashishwaghmare21/90DaysOfDevOps/blob/master/2024/day03/img/task4.PNG)
+
+5. Create a `fruits.txt` file, add content (one fruit per line), and display the content.
+solution: (https://github.com/Ashishwaghmare21/90DaysOfDevOps/blob/master/2024/day03/img/task5.PNG)
+
+6. Add content in `devops.txt` (one in each line) - Apple, Mango, Banana, Cherry, Kiwi, Orange, Guava. Then, append "Pineapple" to the end of the file.
+solution: (https://github.com/Ashishwaghmare21/90DaysOfDevOps/blob/master/2024/day03/img/task6.PNG)
+
+7. Show the first three fruits from the file in reverse order.
+solution: (https://github.com/Ashishwaghmare21/90DaysOfDevOps/blob/master/2024/day03/img/task7.PNG)
+
+8. Show the bottom three fruits from the file, and then sort them alphabetically.
+solution: (https://github.com/Ashishwaghmare21/90DaysOfDevOps/blob/master/2024/day03/img/task8.PNG)
